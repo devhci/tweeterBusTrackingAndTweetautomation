@@ -1,0 +1,13 @@
+ live bus tracking:   tweet  to my twitter handle @iitk_bus  & you will get next 3 bus timings  form  your busstop/place of tweetting to the destination 
+
+i.e @iitk_bus <bus_No> form XYZ to <destination>
+
+OR 
+@iitkbus <bus_No>  to <destination>
+ 
+or 
+@iitk_bus <destination>  (this works when  geo Location service of tweeter account is on)
+
+
+
+Tweet automation: 1000 positive tweets per days for particular. it reads all tweets to a #tag and analyses it  if its positive then tweets it otherwise not . SO u can tweet 1000 tweets/days  250-per 4hrs interval 
