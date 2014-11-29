@@ -9,10 +9,7 @@ import java.io.PrintWriter;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * @author Yusuke Yamamoto - yusuke at mac.com
- * @since Twitter4J 2.1.7
- */
+
 public class PullTL {
     /**publi
      * arch.SearchTweets [query]
